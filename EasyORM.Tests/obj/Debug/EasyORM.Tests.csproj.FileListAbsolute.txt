@@ -1,0 +1,11 @@
+C:\Users\HTML24\documents\visual studio 2012\Projects\EasyORM\EasyORM.Tests\bin\Debug\EasyORM.Tests.dll
+C:\Users\HTML24\documents\visual studio 2012\Projects\EasyORM\EasyORM.Tests\bin\Debug\EasyORM.Tests.pdb
+C:\Users\HTML24\documents\visual studio 2012\Projects\EasyORM\EasyORM.Tests\bin\Debug\xunit.dll
+C:\Users\HTML24\documents\visual studio 2012\Projects\EasyORM\EasyORM.Tests\bin\Debug\xunit.xml
+C:\Users\HTML24\documents\visual studio 2012\Projects\EasyORM\EasyORM.Tests\obj\Debug\EasyORM.Tests.csprojResolveAssemblyReference.cache
+C:\Users\HTML24\documents\visual studio 2012\Projects\EasyORM\EasyORM.Tests\obj\Debug\EasyORM.Tests.dll
+C:\Users\HTML24\documents\visual studio 2012\Projects\EasyORM\EasyORM.Tests\obj\Debug\EasyORM.Tests.pdb
+C:\Users\HTML24\documents\visual studio 2012\Projects\EasyORM\EasyORM.Tests\bin\Debug\EasyORM.dll
+C:\Users\HTML24\documents\visual studio 2012\Projects\EasyORM\EasyORM.Tests\bin\Debug\EasyORM.pdb
+C:\Users\HTML24\Documents\Visual Studio 2012\Projects\EasyORM\EasyORM.Tests\bin\Debug\Moq.dll
+C:\Users\HTML24\Documents\Visual Studio 2012\Projects\EasyORM\EasyORM.Tests\bin\Debug\Moq.xml

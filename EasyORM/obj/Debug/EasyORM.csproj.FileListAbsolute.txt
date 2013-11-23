@@ -1,0 +1,5 @@
+c:\users\html24\documents\visual studio 2012\Projects\EasyORM\EasyORM\obj\Debug\EasyORM.csprojResolveAssemblyReference.cache
+C:\Users\HTML24\documents\visual studio 2012\Projects\EasyORM\EasyORM\bin\Debug\EasyORM.dll
+C:\Users\HTML24\documents\visual studio 2012\Projects\EasyORM\EasyORM\bin\Debug\EasyORM.pdb
+C:\Users\HTML24\documents\visual studio 2012\Projects\EasyORM\EasyORM\obj\Debug\EasyORM.dll
+C:\Users\HTML24\documents\visual studio 2012\Projects\EasyORM\EasyORM\obj\Debug\EasyORM.pdb
